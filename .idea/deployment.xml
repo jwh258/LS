@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/jwh258/LS" uploadOnCheckin="f8c5c5bc-33e4-4607-954a-b322711f2e35">
+  <component name="PublishConfigData" serverName="LS">
     <serverData>
-      <paths name="https://github.com/jwh258/LS">
+      <paths name="LS">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -10,6 +10,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="https://github.com/jwh258/LS" />
   </component>
 </project>

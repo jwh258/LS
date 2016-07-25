@@ -2,13 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f8c5c5bc-33e4-4607-954a-b322711f2e35" name="https://github.com/jwh258/LS" url="https://github.com/jwh258/LS">
-        <fileTransfer host="" port="21" password="dfc9dfd9df98df9adf92df92df93df9ddf92" username="jwh258">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
+      <webServer id="f8c5c5bc-33e4-4607-954a-b322711f2e35" name="LS" url="https://github.com/jwh258/LS">
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
